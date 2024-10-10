@@ -1,0 +1,23 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "A Backend at chai and code channel.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Aniket Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "chai-backend": "file:"
+  }
+}

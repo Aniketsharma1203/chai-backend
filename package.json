@@ -18,6 +18,7 @@
     "nodemon": "^3.1.7"
   },
   "dependencies": {
-    "chai-backend": "file:"
+    "chai-backend": "file:",
+    "prettier": "^3.3.3"
   }
 }
